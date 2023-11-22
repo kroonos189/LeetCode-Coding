@@ -36,7 +36,7 @@ public class armstrong {
 		{
 			if(check_armstrong(i)) 
 			{
-				System.out.println("Armstrng number-"+i);
+				System.out.println("Armstrngyooo number-"+i);
 			}
 		}
 	}
